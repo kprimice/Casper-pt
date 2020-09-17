@@ -1687,12 +1687,8 @@ Usage (In Ghost editor):
 /* 7.2. Members Subscribe Form
 /* ---------------------------------------------------------- */
 .subscribe-form {
-    margin: 1.5em 0;
-    padding: 6.5vw 7vw 8vw;
-    border: color-mod(var(--lightgrey) l(+10%)) 1px solid;
+    padding: 0vw 7vw 0vw;
     text-align: center;
-    background: linear-gradient(color-mod(var(--whitegrey) l(+6%)), color-mod(var(--whitegrey) l(+4%)));
-    border-radius: 3px;
 }
 
 .subscribe-form-title {
