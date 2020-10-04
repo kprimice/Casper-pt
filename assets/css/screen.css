@@ -594,7 +594,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     }
 
     .site-nav-right {
-        display: none;
+        display: flex;
     }
 }
 
